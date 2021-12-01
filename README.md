@@ -11,12 +11,12 @@ Main Method ![Screenshot (10)](https://user-images.githubusercontent.com/6653330
 ## Program Output Example
 Code Example![Screenshot (9)](https://user-images.githubusercontent.com/66533303/144146325-b0e443e7-705b-47ec-ac76-3e6223406bba.png)
 ## Installation instructions
-Once you have a java compiler go [Here] and download the .java file and paste it into your java compiler project directory.
+Once you have a java compiler go [Here](https://github.com/jakedean9903/Documentation) and download the .java file and paste it into your java compiler project directory.
 ## FAQs
 ### Q. Can I use a negative integer?
 **A.** No, if you try and enter a negative integer the program will ask you to input a positive one. 
 ### Q. Where can I find the code for this program?
-**A.** You can find the source code for this program [Here]
+**A.** You can find the source code for this program [Here](https://github.com/jakedean9903/Documentation)
 ## Troubleshooting/Support
 If any questions arise email me @jakedean9003@gmail.com
 ### How To Contribute
