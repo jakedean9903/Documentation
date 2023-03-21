@@ -14,7 +14,7 @@ Once you have a Java compiler go [Here](https://github.com/jakedean9903/Document
 ### Q. Can I use a negative integer?
 **A.** No, if you try and enter a negative integer the program will ask you to input a positive one. 
 ### Q. Where can I find the code for this program?
-**A.** You can find the source code for this program [Here](https://github.com/jakedean9903/Documentation)
+**A.** You can find the source code for this program [Here](https://github.com/jakedean9903/Documentation/blob/main/Documentation.zip), download the raw file, and finally open the .java file to access the program. 
 ## **Troubleshooting/Support**
 If any questions arise email me @jakedean9003@gmail.com
 ### **How To Contribute**
