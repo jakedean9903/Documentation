@@ -9,7 +9,7 @@ You will need a java compiler and a keyboard. A basic compiler is [Visual Studio
 ![](https://user-images.githubusercontent.com/66533303/226728225-fd937415-d873-4a3f-849a-90a5befcbe0b.png)
 ![Code Example](https://user-images.githubusercontent.com/66533303/226728108-9cae777d-182a-4758-abc8-fcabead8ef44.png)
 ## **Installation instructions**
-Once you have a Java compiler go [Here](https://github.com/jakedean9903/Documentation) and download the .java file and paste it into your java compiler project directory.
+Once you have a Java compiler go [Here](https://github.com/jakedean9903/Documentation) and download the .java file.
 ## **FAQs**
 ### Q. Can I use a negative integer?
 **A.** No, if you try and enter a negative integer the program will ask you to input a positive one. 
