@@ -8,7 +8,7 @@ You will need a Java compiler and a keyboard. A good Java IDE is [Visual Studio 
 ## **View Of The Code**
 ![](https://user-images.githubusercontent.com/66533303/226734876-5d653d26-ba55-4161-9780-82921758bd81.png)
 ![](https://user-images.githubusercontent.com/66533303/226735132-ea6e0c31-a8ad-4ad3-b802-0747b6ccea4d.png)
-## **Installation instructions**
+## **Installation Instructions**
 Once you have a Java compiler go [Here](https://github.com/jakedean9903/Documentation/blob/main/Documentation.zip), download the raw file, and finally open the .java file to access the program in your preferred IDE. 
 ## **FAQs**
 ### Q. Can I use a negative integer?
