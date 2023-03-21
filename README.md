@@ -6,8 +6,8 @@ This programs was written by Jacob Dupuis © 2021. This program adds up the sum 
 ## **Materials**
 You will need a java compiler and a keyboard. A basic compiler is [Visual Studio Code](https://code.visualstudio.com/).
 ## **View Of The Code**
-![](https://user-images.githubusercontent.com/66533303/144146895-3d0dd2a7-0f40-4623-8f73-c3e31f328953.png)
-![Code Example](https://user-images.githubusercontent.com/66533303/144146325-b0e443e7-705b-47ec-ac76-3e6223406bba.png)
+![](https://user-images.githubusercontent.com/66533303/226728225-fd937415-d873-4a3f-849a-90a5befcbe0b.png)
+![Code Example](https://user-images.githubusercontent.com/66533303/226728108-9cae777d-182a-4758-abc8-fcabead8ef44.png)
 ## **Installation instructions**
 Once you have a Java compiler go [Here](https://github.com/jakedean9903/Documentation) and download the .java file and paste it into your java compiler project directory.
 ## **FAQs**
